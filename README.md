@@ -32,6 +32,6 @@ La generación de informes en formato PDF facilita la revisión y el análisis d
 
 ## Licencia
 
-Este proyecto está bajo la Licencia apache 2-0. 
+Este proyecto está bajo la Licencia apache 2.0 
 
 ---
