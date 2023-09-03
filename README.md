@@ -14,8 +14,6 @@ Este proyecto es un analizador léxico para el lenguaje de programación Lua imp
 
 ![Captura de Pantalla 1](screenshot1.png)
 
-![Captura de Pantalla 2](screenshot2.png)
-
 ## Contribuciones
 
 ¡Las contribuciones son bienvenidas! Si deseas mejorar esta herramienta o agregar nuevas características, no dudes en hacer una solicitud de extracción.
