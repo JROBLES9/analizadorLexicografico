@@ -10,7 +10,7 @@ Este proyecto es un analizador léxico para el lenguaje de programación Lua imp
 
 - **Interfaz Gráfica:** La interfaz gráfica proporciona una experiencia de usuario amigable, permitiendo cargar y analizar fácilmente el código Lua.
 
-##Generación de Informes en PDF
+## Generación de Informes en PDF
 
 Una de las características destacadas de este analizador léxico para Lua es su capacidad para generar informes en formato PDF que contienen información relevante sobre el código Lua analizado. Estos informes incluyen:
 
